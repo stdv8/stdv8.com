@@ -1,0 +1,33 @@
+body {
+  background-color: #162135;
+  color: #eee;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+}
+
+.container {
+  background: url(images/stdv8-400.png) no-repeat 0 0;
+  /*border: 1px solid #eee;*/
+  height: 440px;
+  margin: 20px auto;
+  padding: 10px 10px 10px 380px;
+  width: 400px;
+}
+
+h1 {
+  border-bottom: 1px solid #eee;
+  font-size: 26px;
+  margin-top: 137px;
+}
+
+p {
+  font-size: 14px;
+  margin: 12px 0 60px;
+}
+
+a {
+  color: #eee;
+  font-size: 13px;
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
